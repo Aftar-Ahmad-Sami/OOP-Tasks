@@ -7,8 +7,8 @@
 
 1. Adil Ahmed Chowdhury
 
-   Lecturer
-   Department of Computer Science & Engineering, 
+   Lecturer<br>
+   Department of Computer Science & Engineering <br>
    Leading University
  
    E-mail: adil@lus.ac.bd
