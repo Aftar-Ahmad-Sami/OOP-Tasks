@@ -1,8 +1,8 @@
 # OOP-Tasks
  2nd Year OOP Courses's Tasks
  
-*Course: Object Oriented Programming*
-*Course Teacher:
+*Course: Object Oriented Programming*\n
+*Course Teacher:*\n
 
 1. Adil Ahmed Chowdhury
    Lecturer
