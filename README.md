@@ -10,7 +10,7 @@
    Lecturer
    Department of Computer Science & Engineering
    Leading University
-  
+ 
    E-mail: adil@lus.ac.bd
   
 2. Md. Saiful Ambia Chowdhury
