@@ -9,6 +9,7 @@
 
    Lecturer
    Department of Computer Science & Engineering
+			
    Leading University
  
    E-mail: adil@lus.ac.bd
@@ -17,6 +18,7 @@
 
    Lecturer
    Department of Computer Science & Engineering
+			
    Leading University
    
    E-mail: sas2505@lus.ac.bd
