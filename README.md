@@ -3,7 +3,7 @@
  
 *Course: Object Oriented Programming*
 
-*Course Teacher:*
+*Course Teachers:*
 
 1. Adil Ahmed Chowdhury
 
