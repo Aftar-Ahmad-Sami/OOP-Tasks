@@ -15,8 +15,8 @@
   
 2. Md. Saiful Ambia Chowdhury
 
-   Lecturer
-   Department of Computer Science & Engineering, 
+   Lecturer<br>
+   Department of Computer Science & Engineering<br>
    Leading University
    
    E-mail: sas2505@lus.ac.bd
