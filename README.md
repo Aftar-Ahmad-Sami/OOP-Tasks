@@ -11,7 +11,7 @@
    Department of Computer Science & Engineering <br>
    Leading University
  
-   E-mail: adil@lus.ac.bd
+   E-mail: adil@lus.ac.bd <br>
    Profile Link: https://www.lus.ac.bd/author/adil/
   
 2. Md. Saiful Ambia Chowdhury
@@ -20,5 +20,5 @@
    Department of Computer Science & Engineering<br>
    Leading University
    
-   E-mail: sas2505@lus.ac.bd
+   E-mail: sas2505@lus.ac.bd <br>
    Profile Link: https://www.lus.ac.bd/author/saiful/
