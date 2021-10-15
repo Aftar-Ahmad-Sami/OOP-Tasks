@@ -12,6 +12,7 @@
    Leading University
  
    E-mail: adil@lus.ac.bd
+   Profile Link: https://www.lus.ac.bd/author/adil/
   
 2. Md. Saiful Ambia Chowdhury
 
@@ -20,3 +21,4 @@
    Leading University
    
    E-mail: sas2505@lus.ac.bd
+   Profile Link: https://www.lus.ac.bd/author/saiful/
